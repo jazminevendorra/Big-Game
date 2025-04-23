@@ -1,0 +1,5 @@
+#to ignore specific files use code:
+#files/* 
+
+#to ignore a specific file inside of directory "files" use code:
+files/file2
