@@ -1,3 +1,6 @@
+#gitignore is used to make desktop github ignore specific files when pushing and commiting changes.
+#commit is local
+#push is to online
 #to ignore specific files use code:
 #files/* 
 
